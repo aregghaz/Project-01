@@ -8,6 +8,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="/Applications/XAMPP/htdocs/site" />
+    <option name="cloneParentDir" value="$USER_HOME$/PhpstormProjects/untitled3" />
   </component>
 </application>
