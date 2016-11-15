@@ -1,0 +1,22 @@
+<application>
+  <component name="libraryTable">
+    <library name="jquey" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <option name="frameworkVersion" value="3.1.1" />
+      </properties>
+      <CLASSES />
+      <DOCUMENTATION>
+        <root url="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="stip" type="javaScript">
+      <CLASSES />
+      <DOCUMENTATION>
+        <root url="https://js.stripe.com/v2/" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+  </component>
+</application>
