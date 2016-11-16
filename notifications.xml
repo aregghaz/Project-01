@@ -1,7 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <toolWindow group="PHP Debugger" />
-    <toolWindow group="Find in Path" />
-    <toolWindow group="Web Deployment: Remote Host" />
-  </component>
-</application>
