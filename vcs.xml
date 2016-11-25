@@ -22,8 +22,12 @@
           <option name="url" value="https://github.com/aregghaz/life-in-color.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/aregghaz/CodeIgniter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="/Applications/XAMPP/htdocs/life-in-color" />
+    <option name="cloneParentDir" value="/Applications/XAMPP/htdocs" />
   </component>
 </application>
