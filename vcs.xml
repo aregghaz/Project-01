@@ -54,6 +54,14 @@
           <option name="url" value="https://Areg1988@bitbucket.org/Areg1988/ski.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/manuelxwhite/DebtCollect-Backend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="mkhitaryan.arayik@gmail.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/Applications/XAMPP/htdocs/" />
