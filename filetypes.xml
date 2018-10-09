@@ -3,6 +3,7 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern=".env1" type="PLAIN_TEXT" />
+      <mapping pattern="readMe" type="PLAIN_TEXT" />
       <mapping pattern=".ENV" type="PLAIN_TEXT" />
       <mapping pattern="bestfile" type="PLAIN_TEXT" />
       <mapping ext="les" type="PLAIN_TEXT" />
